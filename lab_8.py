@@ -112,7 +112,7 @@ while True:
               "\n<6>Знайти студента з найвищим середнім балом"
               "\n<0>Завершити програму")
         number += 1
-    answer = int(input("\nВиберіть дію: "))
+    answer = int(input("\nВиберіть дію:  "))
     match answer:
         case 0:
             break
