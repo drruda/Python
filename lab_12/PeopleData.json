@@ -1,0 +1,42 @@
+{
+    "Shevchenko Oleksandr": {
+        "height": 180,
+        "gender": "male"
+    },
+    "Hnatyuk Andrii": {
+        "height": 175,
+        "gender": "male"
+    },
+    "Romaniuk Olha": {
+        "height": 160,
+        "gender": "female"
+    },
+    "Sydorenko Ihor": {
+        "height": 182,
+        "gender": "male"
+    },
+    "Bilyi Dmytro": {
+        "height": 178,
+        "gender": "male"
+    },
+    "Melnyk Kateryna": {
+        "height": 172,
+        "gender": "female"
+    },
+    "Petrenko Viktor": {
+        "height": 185,
+        "gender": "male"
+    },
+    "Kravchuk Anna": {
+        "height": 168,
+        "gender": "female"
+    },
+    "Kovalenko Maryna": {
+        "height": 165,
+        "gender": "female"
+    },
+    "Rudenko Daryna": {
+        "height": 173,
+        "gender": "female"
+    }
+}
